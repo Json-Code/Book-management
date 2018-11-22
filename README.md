@@ -24,11 +24,13 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## 原型图
 
-![1542877255838](C:\Users\wrx\AppData\Local\Temp\1542877255838.png)![1542877217126](C:\Users\wrx\AppData\Local\Temp\1542877217126.png)![1542877647729](C:\Users\wrx\AppData\Local\Temp\1542877647729.png)
+![](E:\vue项目创建\01-GIT仓库\Book-management\img\$Q99`K~)AW37KM0FR[@(%NV.png)
 
-![1542877187966](C:\Users\wrx\AppData\Local\Temp\1542877187966.png![1542877312502](C:\Users\wrx\AppData\Local\Temp\1542877312502.png)![1542877330574](C:\Users\wrx\AppData\Local\Temp\1542877330574.png)![1542877357492](C:\Users\wrx\AppData\Local\Temp\1542877357492.png![1542877379312](C:\Users\wrx\AppData\Local\Temp\1542877379312.png)![1542877440784](C:\Users\wrx\AppData\Local\Temp\1542877440784.png)
+![](E:\vue项目创建\01-GIT仓库\Book-management\img\C73UJ]GF)%{_VW(511{5M)S.png)
 
-![1542877460594](C:\Users\wrx\AppData\Local\Temp\1542877460594.png)
+![](E:\vue项目创建\01-GIT仓库\Book-management\img\{S7OFG0D5}5377`9(}PZ435.png)
+
+![](E:\vue项目创建\01-GIT仓库\Book-management\img\PQICG{``Z0O2LF3LFMH)~{K.png)
 
 ## mpvue 环境
 
