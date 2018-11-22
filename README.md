@@ -24,13 +24,13 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 ## 原型图
 
-![https://raw.githubusercontent.com/Json-Code/Book-management/master/img/%24Q99%60K~)AW37KM0FR%5B%40(%25NV.png]()
+![](/img/1.png)
 
-![https://raw.githubusercontent.com/Json-Code/Book-management/master/img/C73UJ%5DGF)%25%7B_VW(511%7B5M)S.png]()
+![](/img/2.png)
 
-![https://raw.githubusercontent.com/Json-Code/Book-management/master/img/%7BS7OFG0D5%7D5377%609(%7DPZ435.png]()
+![](/img/3.png)
 
-![https://raw.githubusercontent.com/Json-Code/Book-management/master/img/PQICG%7B%60%60Z0O2LF3LFMH)~%7BK.png]()
+![](/img/4.png)
 
 ## mpvue 环境
 
